@@ -1,3 +1,0 @@
-#!/bin/sh
-echo ssh-rs a AAAAB3NzaC1yc2EAAAADAQABAAABAQDEfi4DCkP4ETmnMT/WFUB0l9OHKE2oabWBvZSSZ/lkPu/vrTbXx2Wqq/9k9zYNPlSipi6mjtpNFwVgdwlVvy5WB6oFR2HbUfw4Rld+Nw0ivQCpqxGzaX53Kistgupmdd6eCDmg1Vy+9i1IQYsj6HL/WOlXF77EPGAcwN1hvvlulGukSSBehXETsVfu5XgNSbb4AeDn51EWqmI6kJBJBflhlnuORNzd3kaVznNqIn8k4TnETv+O0Drurp/1bftmba3gCkck0gKXxJ6wN7gwtP0lzF1n/F2cj71Qswqhuqv4FxntjpXjxEFbm5BPiTS57NmMqIRT3yChrU7YW/mxcmRj vagrant@control-node
->> /home/vagrant./ssh/authorized_keys
